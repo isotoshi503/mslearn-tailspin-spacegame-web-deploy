@@ -3,6 +3,7 @@
 # Add steps that publish symbols, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 # test
+# add test 18:44
 
 trigger:
 - main
